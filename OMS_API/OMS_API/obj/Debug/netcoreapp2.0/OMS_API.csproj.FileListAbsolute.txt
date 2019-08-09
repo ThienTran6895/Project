@@ -1,0 +1,11 @@
+D:\Project\OMS_API\OMS_API\OMS_API\bin\Debug\netcoreapp2.0\OMS_API.deps.json
+D:\Project\OMS_API\OMS_API\OMS_API\bin\Debug\netcoreapp2.0\OMS_API.runtimeconfig.json
+D:\Project\OMS_API\OMS_API\OMS_API\bin\Debug\netcoreapp2.0\OMS_API.runtimeconfig.dev.json
+D:\Project\OMS_API\OMS_API\OMS_API\bin\Debug\netcoreapp2.0\OMS_API.dll
+D:\Project\OMS_API\OMS_API\OMS_API\bin\Debug\netcoreapp2.0\OMS_API.pdb
+D:\Project\OMS_API\OMS_API\OMS_API\obj\Debug\netcoreapp2.0\OMS_API.csprojAssemblyReference.cache
+D:\Project\OMS_API\OMS_API\OMS_API\obj\Debug\netcoreapp2.0\OMS_API.csproj.CoreCompileInputs.cache
+D:\Project\OMS_API\OMS_API\OMS_API\obj\Debug\netcoreapp2.0\OMS_API.AssemblyInfoInputs.cache
+D:\Project\OMS_API\OMS_API\OMS_API\obj\Debug\netcoreapp2.0\OMS_API.AssemblyInfo.cs
+D:\Project\OMS_API\OMS_API\OMS_API\obj\Debug\netcoreapp2.0\OMS_API.dll
+D:\Project\OMS_API\OMS_API\OMS_API\obj\Debug\netcoreapp2.0\OMS_API.pdb
